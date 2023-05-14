@@ -8,6 +8,13 @@ namespace SFX
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
+       
+        
+        
+        private Texture2D _spaceship;
+        private Vector2 _position;
+        private Vector2 _scaling = new Vector2(0.1F, 0.1F);
+        private SpriteEffects _sprite;
 
         public Game1()
         {
@@ -26,7 +33,8 @@ namespace SFX
         protected override void LoadContent()
         {
             _spriteBatch = new SpriteBatch(GraphicsDevice);
-
+            _spaceship = Content.Load<Texture2D>("ship");
+            _position = new Vector2(0,0);
             // TODO: use this.Content to load your game content here
         }
 
@@ -36,7 +44,7 @@ namespace SFX
                 Exit();
 
             // TODO: Add your update logic here
-            // kir sag
+            
             base.Update(gameTime);
         }
 
@@ -45,6 +53,9 @@ namespace SFX
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+            _spriteBatch.Begin();
+            _spriteBatch.Draw(_spaceship,_position,null,Color.White,0,_position,_scaling,_sprite,0 );
+            _spriteBatch.End();
 
             base.Draw(gameTime);
         }
