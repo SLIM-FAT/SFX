@@ -13,5 +13,6 @@ namespace SFX
         public Keys Right { get; set; }
         public Keys Up { get; set; }
         public Keys Down { get; set; }
+        //public Keys Interact { get; set; }
     }
 }
