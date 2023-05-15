@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/Projects/CSharp/SFX/Content/NicePng_spaceship-png_138961.png</SourceFile>
-  <SourceTime>2023-05-13T00:05:40.1127049-04:00</SourceTime>
-  <DestFile>E:/Projects/CSharp/SFX/Content/bin/DesktopGL/ship.xnb</DestFile>
-  <DestTime>2023-05-14T20:26:08.8039231-04:00</DestTime>
+  <SourceFile>E:/Projects/CSharp/SFX/Content/super-mario-world-super-mario-bros-super-mario-land-pixel-ef88248fe89f2e45eae80f97a87ec3b1.png</SourceFile>
+  <SourceTime>2023-05-14T20:24:57.5723507-04:00</SourceTime>
+  <DestFile>E:/Projects/CSharp/SFX/Content/bin/DesktopGL/mario.xnb</DestFile>
+  <DestTime>2023-05-14T20:26:08.8707669-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

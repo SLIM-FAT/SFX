@@ -24,3 +24,4 @@ E:\Projects\CSharp\SFX\obj\Debug\net6.0\SFX.pdb
 E:\Projects\CSharp\SFX\obj\Debug\net6.0\SFX.genruntimeconfig.cache
 E:\Projects\CSharp\SFX\obj\Debug\net6.0\ref\SFX.dll
 E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\ship.xnb
+E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\mario.xnb

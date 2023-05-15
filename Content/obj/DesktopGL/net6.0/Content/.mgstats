@@ -1,2 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
 "E:/Projects/CSharp/SFX/Content/NicePng_spaceship-png_138961.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/ship.xnb","TextureProcessor","Texture2DContent",5728,1221017,0.1984689
+"E:/Projects/CSharp/SFX/Content/super-mario-world-super-mario-bros-super-mario-land-pixel-ef88248fe89f2e45eae80f97a87ec3b1.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/mario.xnb","TextureProcessor","Texture2DContent",18777,1959685,0.2108043
