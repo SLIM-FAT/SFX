@@ -16,7 +16,7 @@ namespace SFX
         // private Vector2 _scaling = new Vector2(0.1F, 0.1F);
         // private SpriteEffects _sprite;
         private Sprite _mario;
-        private Sprite _ship;
+        //private Sprite _ship;
 
         public Game1()
         {
@@ -40,15 +40,22 @@ namespace SFX
             var texture1 = Content.Load<Texture2D>("mario");
             var texture2 = Content.Load<Texture2D>("ship");
 
-            _mario = new Sprite(texture1);
-            _mario._position = new Vector2(100,100);
-            _mario._scaling = new Vector2(0.7F, 0.7F); //don't set it to 1 and def give it a value cuz otherwise it wont move for some reason (im a dumbass)
+           // _mario = new Sprite(texture1);
+           // _mario._position = new Vector2(100,100);
+           // _mario._scaling = new Vector2(0.1F, 0.1F); //don't set it to 1 and def give it a value cuz otherwise it wont move for some reason (im a dumbass)
 
-            _ship = new Sprite(texture2)
+            _mario = new Sprite(texture1)
             {
                 _position = new Vector2(70, 70),
                 _speed = 5f,
                 _scaling = new Vector2(0.1f, 0.1f),
+                _input = new Input()
+                {
+                    Up = Keys.W,
+                    Down = Keys.S,
+                    Left = Keys.A,
+                    Right = Keys.D,
+                }
             };
 
             
@@ -58,7 +65,7 @@ namespace SFX
         {
             if (GamePad.GetState(PlayerIndex.One).Buttons.Back == ButtonState.Pressed || Keyboard.GetState().IsKeyDown(Keys.Escape))
                 Exit();
-            _ship.Update();
+            //_ship.Update();
             _mario.Update();
 
             // TODO: Add your update logic here
@@ -72,7 +79,7 @@ namespace SFX
 
             // TODO: Add your drawing code here
             _spriteBatch.Begin();
-            _ship.Draw(_spriteBatch);
+            //_ship.Draw(_spriteBatch);
             _mario.Draw(_spriteBatch); 
             _spriteBatch.End();
 
