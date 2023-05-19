@@ -1,3 +1,7 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"E:/Projects/CSharp/SFX/Content/NicePng_spaceship-png_138961.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/ship.xnb","TextureProcessor","Texture2DContent",5728,1221017,0.1984689
-"E:/Projects/CSharp/SFX/Content/super-mario-world-super-mario-bros-super-mario-land-pixel-ef88248fe89f2e45eae80f97a87ec3b1.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/mario.xnb","TextureProcessor","Texture2DContent",18777,1959685,0.2108043
+"E:/Projects/CSharp/SFX/Content/Box.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/Box.xnb","TextureProcessor","Texture2DContent",331,10085,0.1476959
+"E:/Projects/CSharp/SFX/Content/ghost.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/ghost.xnb","TextureProcessor","Texture2DContent",16672,1638485,0.0606484
+"E:/Projects/CSharp/SFX/Content/mario.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/mario.xnb","TextureProcessor","Texture2DContent",18777,1959685,0.0618399
+"E:/Projects/CSharp/SFX/Content/Shepard.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/Shepard.xnb","TextureProcessor","Texture2DContent",657,4181,0.0027694
+"E:/Projects/CSharp/SFX/Content/ship.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/ship.xnb","TextureProcessor","Texture2DContent",5728,1221017,0.0512939
+"E:/Projects/CSharp/SFX/Content/yoshi.png","E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/yoshi.xnb","TextureProcessor","Texture2DContent",16700,1587685,0.0767025

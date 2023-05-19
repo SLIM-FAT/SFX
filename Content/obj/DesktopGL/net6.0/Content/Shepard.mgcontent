@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <SourceFile>E:/Projects/CSharp/SFX/Content/ship.png</SourceFile>
-  <SourceTime>2023-05-13T00:05:40.1127049-04:00</SourceTime>
-  <DestFile>E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/ship.xnb</DestFile>
-  <DestTime>2023-05-16T17:59:02.648932-04:00</DestTime>
+  <SourceFile>E:/Projects/CSharp/SFX/Content/Shepard.png</SourceFile>
+  <SourceTime>2023-05-16T17:57:23.1531403-04:00</SourceTime>
+  <DestFile>E:/Projects/CSharp/SFX/Content/bin/DesktopGL/Content/Shepard.xnb</DestFile>
+  <DestTime>2023-05-16T17:59:02.6040518-04:00</DestTime>
   <Importer>TextureImporter</Importer>
   <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
   <Processor>TextureProcessor</Processor>

@@ -25,3 +25,7 @@ E:\Projects\CSharp\SFX\obj\Debug\net6.0\SFX.genruntimeconfig.cache
 E:\Projects\CSharp\SFX\obj\Debug\net6.0\ref\SFX.dll
 E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\ship.xnb
 E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\mario.xnb
+E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\Box.xnb
+E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\ghost.xnb
+E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\Shepard.xnb
+E:\Projects\CSharp\SFX\bin\Debug\net6.0\Content\yoshi.xnb

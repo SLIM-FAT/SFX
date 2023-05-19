@@ -4,11 +4,19 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>E:/Projects/CSharp/SFX/Content/NicePng_spaceship-png_138961.png</File>
-    <File>E:/Projects/CSharp/SFX/Content/super-mario-world-super-mario-bros-super-mario-land-pixel-ef88248fe89f2e45eae80f97a87ec3b1.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/Box.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/ghost.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/mario.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/Shepard.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/ship.png</File>
+    <File>E:/Projects/CSharp/SFX/Content/yoshi.png</File>
   </SourceFiles>
   <DestFiles>
-    <File>ship.png</File>
-    <File>mario.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
